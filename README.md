@@ -16,13 +16,17 @@ You need Python - https://www.python.org/downloads/.
 
 **Run**
 
-Linux:
+1) Linux:
+
 cd Purring\_cell_counter
+
 python cell\_counter_python.py
 
 
-Windows:
+2) Windows:
+
 Open Terminal from the program folder
+
 python cell\_counter_python.py
 
 _You can use your favorite sound. Just replace "sound.wav" with your file under the same name_
@@ -36,7 +40,7 @@ Enter the number (i.e.,100):10
 
 Press Enter to start. Print q to quit the program.
 
-_keep typing_
+_keep typing (I entered 1 2 2 4 3 3 2 1 3 1)_
 
 \---
 
@@ -44,7 +48,7 @@ Raw results: 2: 3, 1: 3, 3: 3
 
 Counted cells: 9
 
-Percentage: 2 33.3%, 1 33.3%, 3 33.3%
+Percentage: 1 33.3%, 2 33.3%, 3 33.3%
 
 Typing mistakes: 4 _if you use a symbol you have not expected to use it will be counted in total but not added to the results_
 
